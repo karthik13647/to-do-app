@@ -1,5 +1,5 @@
 ## .preview
-https://drive.google.com/file/d/1jB-F0FIBksMgNVs8taKYmWTKAQ9NtsUz/view?usp=sharing
+![To-Do List App](https://drive.google.com/file/d/1jB-F0FIBksMgNVs8taKYmWTKAQ9NtsUz/view?usp=sharing)
 
 ## .features
 - [x] Show tasks list
