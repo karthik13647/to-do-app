@@ -21,3 +21,5 @@ developed a To-Do App using HTML, CSS, and JavaScript, designed with a strong fo
 
 ## .contact
 email: abhiprince4147@gmail.com
+
+© 2024 Karthik Batta. All rights reserved.
